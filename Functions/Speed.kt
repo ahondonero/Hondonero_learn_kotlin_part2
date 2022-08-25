@@ -8,5 +8,5 @@ fun getSpeed(distance: Int, time: Int) {
 fun main() {
   // Write more code below
   getSpeed(10,3)
-  
+  //
 }
